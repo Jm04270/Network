@@ -2,11 +2,11 @@
 
 먼저 폴더를 만든후 dir을 자신이 만든 폴더로 이동한다.
 
-![image.png](image.png)
+![image.png](im.png)
 
 README를 만듬
 
-![image.png](image%201.png)
+![image.png](im%201.png)
 
 git을 초기화 시켜준다
 
