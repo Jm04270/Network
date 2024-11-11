@@ -6,7 +6,7 @@
 
 README를 만듬
 
-![image.png](im%201.png)
+![image.png](im2.png)
 
 git을 초기화 시켜준다
 
